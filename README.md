@@ -28,4 +28,8 @@ To store a version of your data, you must `commit` them:
 $ git commit -m "first commit"
 ```
 
+In order to use the Python scripts, you need Python in version 3. You will also need the `pip` program in order to install Python packages.
 
+```shell
+$ pip install -r requirements.txt
+```
