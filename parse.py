@@ -100,14 +100,14 @@ jsn['ACTIVE'] = {}
 
 jsn['keys'] = [key for key in bib]
 
-with open('website/data.js', 'w') as f:
+with open('segepaed/data.js', 'w') as f:
     f.write('var BIB = '+json.dumps(jsn, indent=2)+';\n')
     f.write('var KAT = '+json.dumps(csv, indent=2)+';\n')
     f.write('var TRAN = '+json.dumps(translator, indent=2)+';\n')
     f.write('var KW = '+json.dumps(kws, indent=2)+';\n')
     f.write('var COOC = '+json.dumps(coocs, indent=2)+';\n')
     #f.write('var CAT = '+json.dumps(categories, indent=2)+';\n')
-with open('website/keywords.json', 'w') as f:
+with open('segepaed/keywords.json', 'w') as f:
     keys = []
     for i, k in enumerate(sorted(kws, key=lambda x: len(kws[x]),
             reverse=True)):
