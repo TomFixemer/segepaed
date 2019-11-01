@@ -33,3 +33,27 @@ In order to use the Python scripts, you need Python in version 3. You will also 
 ```shell
 $ pip install -r requirements.txt
 ```
+
+Once this has been done, you can start to convert the data to the website.
+
+We start by normalizing the LaTeX code in the bibtex file:
+
+```shell
+$ python normalize.py data/Bibliographie.tsv
+```
+
+This creates a new file `data/Bibliographie-normalized.tsv`.
+
+With this file, and the file with the additional information on the `Laufnummer`, which needs to be replaced in `data/laufnummern.tsv`, you can now run the script that parses the data.
+
+```shell
+$ python parse.py
+```
+
+With this, we can now finally create the website:
+
+```shell
+$ python make-page.py
+```
+
+The website is now in `segepaed/index.html`, where it can be opened by double-clicking.
