@@ -1,2 +1,3 @@
 bibtexparser
+markdown
 networkx
