@@ -3,7 +3,7 @@ import json
 from collections import defaultdict
 import networkx as nx
 
-bib = BibTex('data/bibliographie.bib', jfile='data/journals.csv', tfile='data/templates')
+bib = BibTex('data/Bibliographie-normalized.bib', jfile='data/journals.csv', tfile='data/templates')
 jsn = {}
 html = ''
 categories = nx.DiGraph()
@@ -20,7 +20,7 @@ def write_bibtex(entry):
     return out
 
 csv = {}
-with open('data/SeGePae.csv') as f:
+with open('data/laufnummern.tsv') as f:
     for line in f:
         tmp = line.split('\t')
         key = tmp[3]
@@ -36,6 +36,7 @@ with open('data/keywords.tsv') as f:
 
         if tmp[4].strip():
             _kw['en'][tmp[1].strip()] = tmp[4].strip()
+
 
 #all_keywords = defaultdict(int)
 translator = {}
@@ -136,10 +137,9 @@ while queue:
     if previous > len(node.split('.')):
         uls = (previous - len(node.split('.'))) * '</ul>'
         text += uls + '\n'
-    text += '<li>'+categories.node[node]['value']+'</li>\n'
+    text += '<li>'+categories.nodes[node]['value']+'</li>\n'
     previous = len(node.split('.'))
     print(text)
-    input()
 
 
     

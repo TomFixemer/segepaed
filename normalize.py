@@ -1,15 +1,14 @@
 from __future__ import print_function
-from latex import _unlatex
-import codecs
+from lib.latex import equivalents
 from sys import argv
-print(argv[1])
-bib = codecs.open(argv[1], 'r', 'utf-8').read()
-out = list(_unlatex(bib))
-print(len(out))
-with codecs.open(argv[1][:-4]+'-normalized.bib', 'w', 'utf-8') as f:
-    for k in out:
+bib = open(argv[1]).read()
+for a, b in equivalents.items():
+    bib = bib.replace(b, a)
+print(len(bib))
+with open(argv[1][:-4]+'-normalized.bib', 'w') as f:
+    for k in bib:
         try:
-            f.write(unicode(k))
+            f.write(k)
         except:
             print(repr(k))
-            raw_input()
+            input()
