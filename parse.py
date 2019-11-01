@@ -3,7 +3,7 @@ import json
 from collections import defaultdict
 import networkx as nx
 
-bib = BibTex('data/SeGePae.bib', jfile='data/journals.csv', tfile='data/templates')
+bib = BibTex('data/bibliographie.bib', jfile='data/journals.csv', tfile='data/templates')
 jsn = {}
 html = ''
 categories = nx.DiGraph()
