@@ -39,10 +39,10 @@ Once this has been done, you can start to convert the data to the website.
 We start by normalizing the LaTeX code in the bibtex file:
 
 ```shell
-$ python normalize.py data/Bibliographie.tsv
+$ python normalize.py data/Bibliographie.bib
 ```
 
-This creates a new file `data/Bibliographie-normalized.tsv`.
+This creates a new file `data/Bibliographie-normalized.bib`.
 
 With this file, and the file with the additional information on the `Laufnummer`, which needs to be replaced in `data/laufnummern.tsv`, you can now run the script that parses the data.
 
