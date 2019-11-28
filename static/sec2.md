@@ -10,4 +10,4 @@ Zentrale Erkenntnisinteressen dieses Monitorings sind eine Darstellung der Forsc
 
 Diese Literaturdatenbank ist online öffentlich zugänglich; klicken Sie dafür auf den Tab "Bibliographie". Das genaue Vorgehen und die Auswahl der präsentierten Aufsätze, Broschüren und Monographien in der Literaturdatenbank werden in der dazugehörigen PDF-Version der Bibliographie dargestellt. Diese finden Sie unter "Ressourcen".
 
-Gerne nehmen wir Ihre Hinweise entgegen: Fehlen wichtige Werke oder haben Sie Fehler in der Datenbank entdeckt? Auch bweiteren Fragen oder Anregungen wenden Sie sich bitte an Frau Prof.'in Dr. Anja Henningsen (anja.henningsen@fh-kiel.de).
+Gerne nehmen wir Ihre Hinweise entgegen: Fehlen wichtige Werke oder haben Sie Fehler in der Datenbank entdeckt? Auch bei weiteren Fragen oder Anregungen wenden Sie sich bitte an Frau Prof.'in Dr. Anja Henningsen (anja.henningsen@fh-kiel.de).
