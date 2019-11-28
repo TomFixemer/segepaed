@@ -1,6 +1,6 @@
 ### Autorinnen
 
-Die Bibliographie wurde finanziert durch das Bundesministerium für Bildung und Forschung als Teil des Forschungsprojekts ParPEM - Partizipation, Praxisbezug, Ethik und Monitoring in der Förderlinie „Sexualisierte Gewalt in pädagogischen Kontexten“.
+Die Bibliographie wird finanziert durch das Bundesministerium für Bildung und Forschung als Teil des Forschungsprojekts ParPEM - Partizipation, Praxisbezug, Ethik und Monitoring in der Förderlinie „Sexualisierte Gewalt in pädagogischen Kontexten“.
 
 Für den Inhalt verantwortlich sind:
 
