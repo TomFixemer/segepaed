@@ -6,40 +6,36 @@
 <ul class="cathy">
 <li class="cathy"><a class="cathy" onclick="">Kategorien</a>
 <ul class="cathy">
-<li class="cathy"><a class="cathy" onclick="showCat('1 Soziale Rahmung')">1 Soziale Rahmung</a>
+<li class="cathy">
+<a class="cathy" onclick="showCat('1 Sozialer Kontext')">1 Sozialer Kontext</a>
 <ul class="cathy">
-<li class="cathy"><a class="cathy" onclick="showCat('1.1 Diskurse')">1.1 Diskurse</a></li>
-<li class="cathy"><a class="cathy" onclick="showCat('1.2 Policies')">1.2 Policies</a></li>
-<li class="cathy"><a class="cathy" onclick="showCat('1.3 Medien und Technologie')">1.3 Medien und Technologie</a></li>
+<li class="cathy"><a class="cathy final" onclick="showCat('1.1 Diskurse')">1.1 Diskurse</a></li>
+<li class="cathy"><a class="cathy final" onclick="showCat('1.2 Policies')">1.2 Policies</a></li>
+<li class="cathy"><a class="cathy final" onclick="showCat('1.3 Medien und Technologie')">1.3 Medien und Technologie</a></li>
 <li class="cathy"><a class="cathy" onclick="showCat('1.4 Identitäten')">1.4 Identitäten</a>
 <ul class="cathy">
-<li class="cathy"><a class="cathy" onclick="showCat('1.4.1 Geschlecht')">1.4.1 Geschlecht</a></li>
-<li class="cathy"><a class="cathy" onclick="showCat('1.4.2 LGBAQ`*`')">1.4.2 LGBAQ`*`</a></li>
-<li class="cathy"><a class="cathy" onclick="showCat('1.4.3 Ethnizität')">1.4.3 Ethnizität</a></li>
-<li class="cathy"><a class="cathy" onclick="showCat('1.4.4 Religion')">1.4.4 Religion</a></li>
-<li class="cathy"><a class="cathy" onclick="showCat('1.4.5 Behinderungen')">1.4.5 Behinderungen</a></li>
-<li class="cathy"><a class="cathy" onclick="showCat('1.4.6 Schicht')">1.4.6 Schicht</a></li>
+<li class="cathy"><a class="cathy final" onclick="showCat('1.4.1 Geschlecht')">1.4.1 Geschlecht</a></li>
+<li class="cathy"><a class="cathy final" onclick="showCat('1.4.2 LGBAQ')">1.4.2 LGBAQ</a></li>
+<li class="cathy"><a class="cathy final" onclick="showCat('1.4.3 Ethnizität')">1.4.3 Ethnizität</a></li>
+<li class="cathy"><a class="cathy final" onclick="showCat('1.4.4 Religion')">1.4.4 Religion</a></li>
+<li class="cathy"><a class="cathy final" onclick="showCat('1.4.5 Behinderungen')">1.4.5 Behinderungen</a></li>
+<li class="cathy"><a class="cathy final" onclick="showCat('1.4.6 Schicht')">1.4.6 Schicht</a></li>
 </ul>
 </li>
 </ul>
 </li>
-<li class="cathy"><a class="cathy" onclick="showCat('2 Institutioneller Kontext')">2 Institutioneller Kontext</a>
+<li class="cathy">
+<a class="cathy" onclick="showCat('2 Institutioneller Kontext')">2 Institutioneller Kontext</a>
 <ul class="cathy">
-<li class="cathy"><a class="cathy" onclick="showCat('2.1 Institutionelle Dynamiken')">2.1 Institutionelle Dynamiken</a></li>
+<li class="cathy"><a class="cathy final" onclick="showCat('2.1 Institutionelle Dynamiken')">2.1 Institutionelle Dynamiken</a></li>
 <li class="cathy"><a class="cathy" onclick="showCat('2.2 Einrichtungen')">2.2 Einrichtungen</a>
 <ul class="cathy">
-<li class="cathy"><a class="cathy" onclick="showCat('2.2.1 Kita')">2.2.1 Kita</a></li>
-<li class="cathy"><a class="cathy" onclick="showCat('2.2.10 Familienhilfe')">2.2.10 Familienhilfe</a></li>
-<li class="cathy"><a class="cathy" onclick="showCat('2.2.2 Grundschule')">2.2.2 Grundschule</a></li>
-<li class="cathy"><a class="cathy" onclick="showCat('2.2.3 Weiterführende Schule')">2.2.3 Weiterführende Schule</a></li>
-<li class="cathy"><a class="cathy" onclick="showCat('2.2.4 Stationäre Kinder- und Jugendhilfe')">2.2.4 Stationäre Kinder- und Jugendhilfe</a></li>
-<li class="cathy"><a class="cathy" onclick="showCat('2.2.5 Offene Kinder- und Jugendarbeit')">2.2.5 Offene Kinder- und Jugendarbeit</a></li>
-<li class="cathy"><a class="cathy" onclick="showCat('2.2.6 Verbandsarbeit')">2.2.6 Verbandsarbeit</a></li>
-<li class="cathy"><a class="cathy" onclick="showCat('2.2.7 Kirche')">2.2.7 Kirche</a></li>
-<li class="cathy"><a class="cathy" onclick="showCat('2.2.8 Hochschule')">2.2.8 Hochschule</a></li>
-<li class="cathy"><a class="cathy" onclick="showCat('2.2.9 Förderschule')">2.2.9 Förderschule</a></li>
-<li class="cathy"><a class="cathy" onclick="showCat('2.2.11 Sonstige')">2.2.11 Sonstige</a></li>
-<li class="cathy"><a class="cathy" onclick="showCat('2.2.12 Fachberatungsstelle')">2.2.12 Fachberatungsstelle</a></li>
+<li class="cathy"><a class="cathy final" onclick="showCat('2.2.1 Kindertagesstätte')">2.2.1 Kindertagesstätte</a></li>
+<li class="cathy"><a class="cathy final" onclick="showCat('2.2.2 Grundschule')">2.2.2 Grundschule</a></li>
+<li class="cathy"><a class="cathy" onclick="showCat('2.2.3 Weiterführende Schule')">2.2.3 Weiterführende Schule</a></li>                    
+<li class="cathy"><a class="cathy final" onclick="showCat('2.2.4 Stationäre Einrichtung')">2.2.4 Stationäre Einrichtung</a></li>
+<li class="cathy"><a class="cathy final" onclick="showCat('2.2.5 Hochschule')">2.2.5 Hochschule</a></li>
+<li class="cathy"><a class="cathy final" onclick="showCat('2.2.6 Sonstige Einrichtungen')">2.2.6 Sonstige Einrichtungen</a></li>
 </ul>
 </li>
 </ul>
@@ -49,46 +45,97 @@
 <li class="cathy"><a class="cathy" onclick="showCat('3.1 Sexualpädagogik')">3.1 Sexualpädagogik</a></li>
 <li class="cathy"><a class="cathy" onclick="showCat('3.2 Gewaltprävention')">3.2 Gewaltprävention</a></li>
 <li class="cathy"><a class="cathy" onclick="showCat('3.3 Kinderschutz')">3.3 Kinderschutz</a></li>
-<li class="cathy"><a class="cathy" onclick="showCat('3.4 Intervention')">3.4 Intervention</a></li>
+<li class="cathy"><a class="cathy" onclick="showCat('3.4 Intervention')">3.4 Intervention</a></li>    
+<li class="cathy"><a class="cathy" onclick="showCat('3.5 Praxismaterialien')">3.5 Praxismaterialien</a></li>    
 </ul>
 </li>
 <li class="cathy"><a class="cathy" onclick="showCat('4 Fachkräfte')">4 Fachkräfte</a>
 <ul class="cathy">
-<li class="cathy"><a class="cathy" onclick="showCat('4.1 Pädagogische Fachkräfte')">4.1 Pädagogische Fachkräfte</a></li>
-<li class="cathy"><a class="cathy" onclick="showCat('4.2 Andere Fachkräfte')">4.2 Andere Fachkräfte</a></li>
+<li class="cathy"><a class="cathy final" onclick="showCat('4.1 Pädagogische Fachkräfte')">4.1 Pädagogische Fachkräfte</a></li>
+<li class="cathy"><a class="cathy final" onclick="showCat('4.2 Andere Fachkräfte')">4.2 Andere Fachkräfte</a></li>
 </ul>
 </li>
-<li class="cathy"><a class="cathy" onclick="showCat('5 Adressat`*`innen')">5 Adressat*innen</a>
+<li class="cathy">
+<a class="cathy" onclick="showCat('5 Adressat_innen')">5 Adressat_innen</a>
 <ul class="cathy">
-<li class="cathy"><a class="cathy" onclick="showCat('5.1 Kinder')">5.1 Kinder</a></li>
-<li class="cathy"><a class="cathy" onclick="showCat('5.2 Jugendliche')">5.2 Jugendliche</a></li>
-<li class="cathy"><a class="cathy" onclick="showCat('5.3 Eltern und Familie')">5.3 Eltern und Familie</a></li>
+<li class="cathy"><a class="cathy final" onclick="showCat('5.1 Kinder')">5.1 Kinder</a></li>
+<li class="cathy"><a class="cathy final" onclick="showCat('5.2 Jugendliche')">5.2 Jugendliche</a></li>
+<li class="cathy"><a class="cathy final" onclick="showCat('5.3 Eltern und Familie')">5.3 Eltern und Familie</a></li>
 </ul>
 </li>
 <li class="cathy"><a class="cathy" onclick="showCat('6 Gewalt')">6 Gewalt</a>
 <ul class="cathy">
-<li class="cathy"><a class="cathy" onclick="showCat('6.3 Aufdeckung')">6.3 Aufdeckung</a></li>
-<li class="cathy"><a class="cathy" onclick="showCat('6.4 Negative Folgen')">6.4 Negative Folgen</a></li>
-<li class="cathy"><a class="cathy" onclick="showCat('6.5 Resilienz')">6.5 Resilienz</a></li>
+<li class="cathy"><a class="cathy final" onclick="showCat('6.1 Sexueller Missbrauch')">6.1 Sexueller Missbrauch</a></li>
+<li class="cathy"><a class="cathy final" onclick="showCat('6.2 Übergriff, Peergewalt')">6.2 Übergriff, Peergewalt</a></li>
+<li class="cathy"><a class="cathy final" onclick="showCat('6.3 Diskriminierung')">6.3 Diskriminierung</a></li>
+<li class="cathy"><a class="cathy final" onclick="showCat('6.4 Disclosure, Aufarbeitung')">6.4 Disclosure, Aufarbeitung</a></li>
+<li class="cathy"><a class="cathy final" onclick="showCat('6.5 Negative Folgen')">6.5 Negative Folgen</a></li>
+<li class="cathy"><a class="cathy final" onclick="showCat('6.6 Resilienz')">6.6 Resilienz</a></li>
 </ul>
 </li>
 <li class="cathy"><a class="cathy" onclick="showCat('7 Sexualität')">7 Sexualität</a>
 <ul class="cathy">
-<li class="cathy"><a class="cathy" onclick="showCat('7.1 Sexuelle Erfahrungen')">7.1 Sexuelle Erfahrungen</a></li>
-<li class="cathy"><a class="cathy" onclick="showCat('7.2 Beziehungsgestaltung')">7.2 Beziehungsgestaltung</a></li>
-<li class="cathy"><a class="cathy" onclick="showCat('7.3 Sexuelle Selbstbestimmung')">7.3 Sexuelle Selbstbestimmung</a></li>
+<li class="cathy"><a class="cathy final" onclick="showCat('7.1 Sexuelle Erfahrungen')">7.1 Sexuelle Erfahrungen</a></li>
+<li class="cathy"><a class="cathy final" onclick="showCat('7.2 Beziehungsgestaltung')">7.2 Beziehungsgestaltung</a></li>
+<li class="cathy"><a class="cathy final" onclick="showCat('7.3 Sexuelle Selbstbestimmung')">7.3 Sexuelle Selbstbestimmung</a></li>
 </ul>
 </li>
-<li class="cathy"><a class="cathy" onclick="showCat('8 Forschung')">8 Forschung</a>
+<li class="cathy">
+<a class="cathy final" onclick="showCat('8 Forschung')">8 Forschung</a></li>
+</li>
+</li>
+<li class="cathy">
+<a class="cathy" onclick="showCat('9 Förderlinie')">9 Förderlinie</a>
 <ul class="cathy">
-<li class="cathy"><a class="cathy" onclick="showCat('8.2 Methodologie')">8.2 Methodologie</a></li>
-<li class="cathy"><a class="cathy" onclick="showCat('8.3 Empirische Ergebnisse')">8.3 Empirische Ergebnisse</a></li>
-<li class="cathy"><a class="cathy" onclick="showCat('8.4 Forschungsethik')">8.4 Forschungsethik</a></li>
+<li class="cathy"><a class="cathy" onclick="showCat('9.1 Erste Phase')">9.1 Erste Phase</a>
+<ul class="cathy">
+<li class="cathy"><a class="cathy final" onclick="showCat('9.1.1 Aufdeckung und Prävention')">9.1.1 Aufdeckung und Prävention</a></li>
+<li class="cathy"><a class="cathy final" onclick="showCat('9.1.2 DASsS')">9.1.2 DASsS</a></li>
+<li class="cathy"><a class="cathy final" onclick="showCat('9.1.3 Ich bin sicher!')">9.1.3 Ich bin sicher!</a></li>
+<li class="cathy"><a class="cathy final" onclick="showCat('9.1.4 IGEL')">9.1.4 IGEL</a></li>
+<li class="cathy"><a class="cathy final" onclick="showCat('9.1.5 IRiK')">9.1.5 IRiK</a></li>
+<li class="cathy"><a class="cathy final" onclick="showCat('9.1.6 Kultur des Hinhörens')">9.1.6 Kultur des Hinhörens</a></li>
+<li class="cathy"><a class="cathy final" onclick="showCat('9.1.7 Kindeswohl als kollektives Orientierungsmuster?')">9.1.7 Kindeswohl als kollektives Orientierungsmuster?</a></li>
+<li class="cathy"><a class="cathy final" onclick="showCat('9.1.8 PRÄVIK')">9.1.8 PRÄVIK</a></li>
+<li class="cathy"><a class="cathy final" onclick="showCat('9.1.9 Präventionsmaterialien')">9.1.9 Präventionsmaterialien</a></li>
+<li class="cathy"><a class="cathy final" onclick="showCat('9.1.10 ReSi')">9.1.10 ReSi</a></li>
+<li class="cathy"><a class="cathy final" onclick="showCat('9.1.11 RifA')">9.1.11 RifA</a></li>
+<li class="cathy"><a class="cathy final" onclick="showCat('9.1.12 Safer Places')">9.1.12 Safer Places</a></li>
+<li class="cathy"><a class="cathy final" onclick="showCat('9.1.13 Safe Sport')">9.1.13 Safe Sport</a></li>
+<li class="cathy"><a class="cathy final" onclick="showCat('9.1.14 SeMB')">9.1.14 SeMB</a></li>
+<li class="cathy"><a class="cathy final" onclick="showCat('9.1.15 Sexualisierte Übergriffe und Schule')">9.1.15 Sexualisierte Übergriffe und Schule</a></li>
+<li class="cathy"><a class="cathy final" onclick="showCat('9.1.16 Sprich mit!')">9.1.16 Sprich mit!</a></li>
+<li class="cathy"><a class="cathy final" onclick="showCat('9.1.17 Wissen von Schülerinnen und Schülern')">9.1.17 Wissen von Schülerinnen und Schülern</a></li>
+</ul>
+<li class="cathy"><a class="cathy" onclick="showCat('9.2 Zweite Phase')">9.2 Zweite Phase</a>
+<ul class="cathy">
+<li class="cathy"><a class="cathy final" onclick="showCat('9.2.1 Auf-Wirkung')">9.2.1 Auf-Wirkung</a></li>
+<li class="cathy"><a class="cathy final" onclick="showCat('9.2.2 BerGE')">9.2.2 BerGe</a></li>
+<li class="cathy"><a class="cathy final" onclick="showCat('9.2.3 FosterCare')">9.2.3 FosterCare</a></li>
+<li class="cathy"><a class="cathy final" onclick="showCat('9.2.4 HUman')">9.2.4 HUman</a></li>
+<li class="cathy"><a class="cathy final" onclick="showCat('9.2.5 IPSE')">9.2.5 IPSE</a></li>
+<li class="cathy"><a class="cathy final" onclick="showCat('9.2.6 JupP')">9.2.6 JupP</a></li>
+<li class="cathy"><a class="cathy final" onclick="showCat('9.2.7 PAD')">9.2.7 PAD</a></li>
+<li class="cathy"><a class="cathy final" onclick="showCat('9.2.8 PISUM')">9.2.8 PISUM</a></li>
+<li class="cathy"><a class="cathy final" onclick="showCat('9.2.9 SaferSexting')">9.2.9 SaferSexting</a></li>
+<li class="cathy"><a class="cathy final" onclick="showCat('9.2.10 SCHUPPS')">9.2.10 SCHUPPS</a></li>
+<li class="cathy"><a class="cathy final" onclick="showCat('9.2.11 SchutzNorm')">9.2.11 SchutzNorm</a></li>
+<li class="cathy"><a class="cathy final" onclick="showCat('9.2.12 SchuKoJuv')">9.2.12 SchuKoJuv</a></li>
+<li class="cathy"><a class="cathy final" onclick="showCat('9.2.13 SeBiLe')">9.2.13 SeBiLe</a></li>
+<li class="cathy"><a class="cathy final" onclick="showCat('9.2.14 SoS')">9.2.14 SoS</a></li>
+<li class="cathy"><a class="cathy final" onclick="showCat('9.2.15 SP:PAS')">9.2.15 SP:PAS</a></li>
+<li class="cathy"><a class="cathy final" onclick="showCat('9.2.16 ViContact')">9.2.16 ViContact</a></li>
+</ul>
+<li class="cathy"><a class="cathy" onclick="showCat('9.3 Juniorprofessuren')">9.3 Juniorprofessuren</a>
+<ul class="cathy">
+<li class="cathy"><a class="cathy final" onclick="showCat('9.3.1 Forschungsprof Merseburg')">9.3.1 Forschungsprof Merseburg</a></li>
+<li class="cathy"><a class="cathy final" onclick="showCat('9.3.2 Junprof Hamburg')">9.3.2 Junprof Hamburg</a></li>
+<li class="cathy"><a class="cathy final" onclick="showCat('9.3.3 Junprof Kassel')">9.3.3 Junprof Kassel</a></li>
+<li class="cathy"><a class="cathy final" onclick="showCat('9.3.4 Junprof Kiel')">9.3.4 Junprof Kiel</a></li>
+<li class="cathy"><a class="cathy final" onclick="showCat('9.3.5 Junprof Münster')">9.3.5 Junprof Münster</a></li>
 </ul>
 </li>
-<li class="cathy"><a class="cathy" onclick="showCat('9 Förderlinie')">9 Förderlinie</a></li>  
-</ul>
-</li>
+</li>      
 </ul>
 </nav>
 <input type="text" class="form-control textfield" style="width:160px;display:inline" onkeyup="filter('freetext');" id="freetext" placeholder="Freitext" />
