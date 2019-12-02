@@ -1,7 +1,7 @@
 ### Einleitung
 
-Der hier zur Verfügung gestellte Bibliographiedienst bietet eine Übersicht englischsprachiger und deutschsprachiger Fachliteratur zu sexualisierter Gewalt in pädagogischen Kontexten. Er unterstützt Fachkräfte bei der Literaturrecherche, indem er einen konzentrierten Zugang zu relevanten Publikationen bietet.  
+Der hier zur Verfügung gestellte Bibliographiedienst bietet eine Übersicht deutschsprachiger Fachliteratur zu sexualisierter Gewalt in pädagogischen Kontexten. Er unterstützt Fachkräfte bei der Literaturrecherche, indem er einen konzentrierten Zugang zu relevanten Publikationen bietet.  
 
-Im Rahmen BMBF-geförderter Forschungsprojekte wurde die Übersicht über englischsprachige Literatur bis Februar 2019 aktualisiert. Die deutschsprachige Fachliteratur wird bis Juni 2021 in regelmäßigen Abständen aktualisiert. 
+Im Rahmen BMBF-geförderter Forschungsprojekte wurde die Übersicht über englischsprachige Literatur bis Februar 2019 aktualisiert. Sie finden Sie hier: https://segepae.github.io/en/index.html. Die deutschsprachige Fachliteratur wird bis Juni 2021 in regelmäßigen Abständen aktualisiert. 
 
-Die Onlinedatenbank finden Sie unter „Bibliographie“, Hinweise zur Bedienung unter „Navigation“ und eine Version zum Herunterladen als PDF unter „Ressourcen“. Bei weiteren Fragen zum Monitoring wenden Sie sich bitte an Frau Prof.'in Dr. Anja Henningsen (anja.henningsen@fh-kiel.de).
+Die deutsche Onlinedatenbank finden Sie unter „Bibliographie“, Hinweise zur Bedienung unter „Navigation“ und eine Version zum Herunterladen als PDF unter „Ressourcen“. Bei weiteren Fragen zum Monitoring wenden Sie sich bitte an Frau Prof.'in Dr. Anja Henningsen (anja.henningsen@fh-kiel.de).
