@@ -7,15 +7,15 @@
 <li class="cathy"><a class="cathy" onclick="">Kategorien</a>
 <ul class="cathy">
 <li class="cathy">
-<a class="cathy" onclick="showCat('1 Sozialer Kontext')">1 Sozialer Kontext</a>
+<a class="cathy" onclick="showCat('1 Soziale Rahmung')">1 Soziale Rahmung</a>
 <ul class="cathy">
 <li class="cathy"><a class="cathy final" onclick="showCat('1.1 Diskurse')">1.1 Diskurse</a></li>
-<li class="cathy"><a class="cathy final" onclick="showCat('1.2 Policies')">1.2 Policies</a></li>
+<li class="cathy"><a class="cathy final" onclick="showCat('1.2 Leitlinien')">1.2 Leitlinien</a></li>
 <li class="cathy"><a class="cathy final" onclick="showCat('1.3 Medien und Technologie')">1.3 Medien und Technologie</a></li>
 <li class="cathy"><a class="cathy" onclick="showCat('1.4 Identitäten')">1.4 Identitäten</a>
 <ul class="cathy">
 <li class="cathy"><a class="cathy final" onclick="showCat('1.4.1 Geschlecht')">1.4.1 Geschlecht</a></li>
-<li class="cathy"><a class="cathy final" onclick="showCat('1.4.2 LGBAQ')">1.4.2 LGBAQ</a></li>
+<li class="cathy"><a class="cathy final" onclick="showCat('1.4.2 LGBAQ*')">1.4.2 LGBAQ*</a></li>
 <li class="cathy"><a class="cathy final" onclick="showCat('1.4.3 Ethnizität')">1.4.3 Ethnizität</a></li>
 <li class="cathy"><a class="cathy final" onclick="showCat('1.4.4 Religion')">1.4.4 Religion</a></li>
 <li class="cathy"><a class="cathy final" onclick="showCat('1.4.5 Behinderungen')">1.4.5 Behinderungen</a></li>
@@ -30,7 +30,7 @@
 <li class="cathy"><a class="cathy final" onclick="showCat('2.1 Institutionelle Dynamiken')">2.1 Institutionelle Dynamiken</a></li>
 <li class="cathy"><a class="cathy" onclick="showCat('2.2 Einrichtungen')">2.2 Einrichtungen</a>
 <ul class="cathy">
-<li class="cathy"><a class="cathy final" onclick="showCat('2.2.1 Kindertagesstätte')">2.2.1 Kindertagesstätte</a></li>
+<li class="cathy"><a class="cathy final" onclick="showCat('2.2.1 Kita')">2.2.1 Kita</a></li>
 <li class="cathy"><a class="cathy final" onclick="showCat('2.2.2 Grundschule')">2.2.2 Grundschule</a></li>
 <li class="cathy"><a class="cathy" onclick="showCat('2.2.3 Weiterführende Schule')">2.2.3 Weiterführende Schule</a></li>                    
 <li class="cathy"><a class="cathy final" onclick="showCat('2.2.4 Stationäre Einrichtung')">2.2.4 Stationäre Einrichtung</a></li>
@@ -56,7 +56,7 @@
 </ul>
 </li>
 <li class="cathy">
-<a class="cathy" onclick="showCat('5 Adressat_innen')">5 Adressat_innen</a>
+<a class="cathy" onclick="showCat('5 Adressat*innen')">5 Adressat*innen</a>
 <ul class="cathy">
 <li class="cathy"><a class="cathy final" onclick="showCat('5.1 Kinder')">5.1 Kinder</a></li>
 <li class="cathy"><a class="cathy final" onclick="showCat('5.2 Jugendliche')">5.2 Jugendliche</a></li>
