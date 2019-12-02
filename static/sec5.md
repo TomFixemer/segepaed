@@ -1,12 +1,12 @@
 ### Autorinnen
 
-Die Bibliographie wird finanziert durch das Bundesministerium für Bildung und Forschung als Teil des Forschungsprojekts ParPEM - Partizipation, Praxisbezug, Ethik und Monitoring in der Förderlinie „Sexualisierte Gewalt in pädagogischen Kontexten“.
+Die Bibliographie ist Bestandteil des Forschungsprojekts ParPEM (Partizipation, Praxisbezug, Ethik und Monitoring in der Förderlinie „Sexualisierte Gewalt in pädagogischen Kontexten“) und wird durch das Bundesministerium für Bildung und Forschung finanziert. 
 
 Für den Inhalt verantwortlich sind:
 
 **Inga Marie List, M.Sc.**
 
-Wissenschaftliche Mitarbeiterin an der Fachhochschule Kiel (Fachbereich Soziale Arbeit und Gesundheit).
+Wissenschaftliche Mitarbeiterin im Fachbereich Soziale Arbeit und Gesundheit an der Fachhochschule Kiel.
 
 **Prof.'in Dr. Anja Henningsen (Projektleitung)**
 
