@@ -8,7 +8,7 @@ Für den Inhalt verantwortlich sind:
 
 Wissenschaftliche Mitarbeit im Fachbereich Soziale Arbeit und Gesundheit an der Fachhochschule Kiel.
 
-**Inga Marie List, M.Sc. (Ehemalige Projektmitarbeit: 07/2018-01/2021)**
+**Inga Marie List, M.Sc. (Ehemalige Projektmitarbeit: 02/2019-01/2021)**
 
 Wissenschaftliche Mitarbeiterin im Fachbereich Soziale Arbeit und Gesundheit an der Fachhochschule Kiel.
 
