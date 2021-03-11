@@ -1,6 +1,6 @@
 ### Anleitung zur Navigation
 
-Die Datenbank enthält derzeit über 600 Einträge - Zeitschriftenartikel, Monographien und Aufsätze in Sammelbänden sowie Broschüren - zum Themenfeld "Sexualisierte Gewalt gegen Kinder und Jugendliche in pädagogischen Kontexten" und umfasst den Publikationszeitraum seit 2015. Die aktuelle Fassung der gesamten Bibliographie samt Erklärung zum Vorgehen und der Auswahl der Einträge kann unter "Ressourcen" als PDF oder als BibTex-Datei für Ihr persönliches Literaturverwaltungsprogramm heruntergeladen werden. 
+Die Datenbank enthält über 1000 Einträge - Zeitschriftenartikel, Monographien und Aufsätze in Sammelbänden sowie Broschüren - zum Themenfeld "Sexualisierte Gewalt gegen Kinder und Jugendliche in pädagogischen Kontexten" und umfasst den Publikationszeitraum seit 01/2015 bis 03/2021. Die aktuelle Fassung der gesamten Bibliographie samt Erklärung zum Vorgehen und der Auswahl der Einträge kann unter "Ressourcen" als PDF oder als BibTex-Datei für Ihr persönliches Literaturverwaltungsprogramm heruntergeladen werden. 
 
 In der Onlinedatenbank kann nach speziellen Einträgen gesucht werden:
 <ol>
