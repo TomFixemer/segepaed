@@ -4,7 +4,7 @@ Die Bibliographie ist Bestandteil des Metavorhabens ParPEM (Partizipation, Praxi
 
 Für den Inhalt verantwortlich sind:
 
-**Tom Fixemer, M.A. (Aktuelle Projektmitarbeit: 12/2020-06-20221)**
+**Tom Fixemer, M.A. (Aktuelle Projektmitarbeit: 12/2020-06/2021)**
 
 Wissenschaftliche Mitarbeit im Fachbereich Soziale Arbeit und Gesundheit an der Fachhochschule Kiel.
 
