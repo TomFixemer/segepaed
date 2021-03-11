@@ -1,6 +1,6 @@
 ### Ressourcen
 
-In Ergänzung zur Online-Version ist diese Bibliographie auch als elektronisches Dokument verfügbar:
+In Ergänzung zur Online-Version ist diese Bibliographie auch in elektronischen Dokumenten verfügbar:
 
 <p style="background-color:LightYellow;padding:10px;border-radius:25px;">List, Inga Marie; Henningsen, Anja (2019): <b>Literatur-Monitoring zum deutschsprachigen Forschungsstand "Sexualisierte Gewalt gegen Kinder und Jugendliche in pädagogischen Kontexten".</b> Bibliographie, Nummer 1. Online verfügbar unter: <a href="https://hcommons.org/docs/bibliographie-sexualisierte-gewalt-in-paedagogischen-kontexten/">https://hcommons.org/docs/bibliographie-sexualisierte-gewalt-in-paedagogischen-kontexten</a>. Kiel: Fachhochschule Kiel.</p>
 
