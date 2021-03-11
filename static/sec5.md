@@ -1,4 +1,4 @@
-### Autorinnen
+### Autor:innen
 
 Die Bibliographie ist Bestandteil des Metavorhabens ParPEM (Partizipation, Praxisbezug, Ethik und Monitoring in der Förderlinie „Sexualisierte Gewalt in pädagogischen Kontexten“) und wird durch das Bundesministerium für Bildung und Forschung gefördert. 
 
