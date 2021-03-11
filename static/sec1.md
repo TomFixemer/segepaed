@@ -1,6 +1,6 @@
 ### Einleitung
 
-Der hier zur Verfügung gestellte Bibliographiedienst bietet eine Übersicht deutschsprachiger Fachliteratur zu sexualisierter Gewalt in pädagogischen Kontexten. Er unterstützt Fachkräfte bei der Literaturrecherche, indem er einen konzentrierten Zugang zu relevanten Publikationen bietet.  
+Der hier zur Verfügung gestellte Bibliographiedienst bietet eine Übersicht deutschsprachiger Fachliteratur zu sexualisierter Gewalt in pädagogischen Kontexten. Dieser unterstützt Fachkräfte bei der Literaturrecherche, indem er einen konzentrierten Zugang zu relevanten Publikationen bietet.  
 
 Die deutschsprachige Fachliteratur wird bis Juni 2021 in regelmäßigen Abständen aktualisiert. 
 
